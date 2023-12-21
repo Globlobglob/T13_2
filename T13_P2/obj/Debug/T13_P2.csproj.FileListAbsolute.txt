@@ -1,0 +1,7 @@
+D:\215\T13_P2\bin\Debug\T13_P2.exe.config
+D:\215\T13_P2\bin\Debug\T13_P2.exe
+D:\215\T13_P2\bin\Debug\T13_P2.pdb
+D:\215\T13_P2\obj\Debug\T13_P2.csproj.AssemblyReference.cache
+D:\215\T13_P2\obj\Debug\T13_P2.csproj.CoreCompileInputs.cache
+D:\215\T13_P2\obj\Debug\T13_P2.exe
+D:\215\T13_P2\obj\Debug\T13_P2.pdb
